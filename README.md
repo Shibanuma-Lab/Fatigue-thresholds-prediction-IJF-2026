@@ -1,6 +1,6 @@
 # Fatigue thresholds prediction-IJF-2026
 
-### `fatigue-thresholds-multiscale-model/` (Threshold Prediction Framework)
+### `fatigue-thresholds-prediction-model/` (Threshold Prediction Framework)
 - **Purpose**: Corresponds to **Sections 4 and 5** of the manuscript. It implements the threshold prediction framework on an idealized semi-infinite body. 
 - **Contents**:
   - **Forward Analysis Script** (`forward_analysis.py`): Calculates the fatigue life analytically to generate the reference S-N curve (failure probability) and determine the reference applied stress amplitude ($\sigma_{\mathrm{ref}}$).
